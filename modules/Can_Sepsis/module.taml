@@ -1,0 +1,12 @@
+<ModuleDefinition
+	ModuleId="Can_Sepsis"
+	VersionId="1"
+	Description="Can_Sepsis Game"
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+		<DeclaredAssets
+			Path="assets"
+			Extension="asset.taml"
+			Recurse="true"/>
+</ModuleDefinition>
